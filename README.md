@@ -3,10 +3,10 @@ This notebook is an exploratory analysis of data dimensionality reductiona and d
 
 The data is the annual spending in monetary units(m.u.) on diverse product categories.
 
-Datasource: https://archive.ics.uci.edu/ml/datasets/Wholesale+customers
+**Datasource:** https://archive.ics.uci.edu/ml/datasets/Wholesale+customers
 
-Algorithms used:
+**Algorithms used:**
 
-Dimensionality reduction: PCA and UMAP
+**Dimensionality reduction:** PCA and UMAP
 
-Clustering: K-Means and Hierarchical clustering
+**Clustering:** K-Means and Hierarchical clustering
